@@ -1,0 +1,165 @@
+module-01:
+  title: 'Module 1'
+  segment: ['module', 1]
+  begin: 2022-09-02
+  end: 2022-10-01
+  theme: c1
+  items:
+    - syllabus
+    - session-01
+    - reading-01
+    - lecture-01
+
+module-02:
+  title: 'Module 2'
+  segment: ['module', 2]
+  begin: 2022-10-02
+  end: 2022-10-15
+  theme: c3
+  items:
+    - session-02
+    - reading-02
+    - lecture-02
+
+module-03:
+  title: 'Module 3'
+  segment: ['module', 3]
+  begin: 2022-10-16
+  end: 2022-10-29
+  theme: c3
+  items:
+    - session-03
+    - reading-03
+    - lecture-03
+
+module-04:
+  title: 'Module 4'
+  segment: ['module', 4]
+  begin: 2022-10-30
+  end: 2022-11-05
+  theme: c5
+  items:
+    - session-04
+    - reading-04
+    - lecture-04
+
+module-05:
+  title: 'Module 5'
+  segment: ['module', 5]
+  begin: 2022-11-06
+  end: 2022-11-19
+  theme: c5
+  items:
+    - session-05
+    - reading-05
+    - lecture-05
+
+module-06:
+  title: 'Module 6'
+  segment: ['module', 6]
+  begin: 2022-11-20
+  end: 2022-12-03
+  theme: c7
+  items:
+    - session-06
+    - reading-06
+    - lecture-06
+
+module-07:
+  title: 'Module 7'
+  segment: ['module', 7]
+  begin: 2022-12-04
+  end: 2022-12-17
+  theme: c9
+  items:
+    - session-07
+    - reading-07
+    - lecture-07
+
+module-08:
+  title: 'Module 8'
+  segment: ['module', 8]
+  begin: 2022-12-18
+  end: 2022-12-31
+  theme: c2
+  items:
+    - session-08
+    - reading-08
+    - lecture-08
+
+module-09:
+  title: 'Module 9'
+  segment: ['module', 9]
+  begin: 2023-01-01
+  end: 2023-01-14
+  theme: c2
+  items:
+    - session-09
+    - reading-09
+    - lecture-09
+
+module-10:
+  title: 'Module 10'
+  segment: ['module', 10]
+  begin: 2023-01-15
+  end: 2023-01-28
+  theme: c2
+  items:
+    - session-10
+    - reading-10
+    - lecture-10
+
+module-11:
+  title: 'Module 11'
+  segment: ['module', 11]
+  begin: 2023-01-29
+  end: 2023-02-11
+  theme: c2
+  items:
+    - session-11
+    - reading-11
+    - lecture-11
+
+module-12:
+  title: 'Module 12'
+  segment: ['module', 12]
+  begin: 2023-02-12
+  end: 2023-02-25
+  theme: c4
+  items:
+    - session-12
+    - reading-12
+    - lecture-12
+
+module-13:
+  title: 'Module 13'
+  segment: ['module', 13]
+  begin: 2023-02-26
+  end: 2023-03-11
+  theme: c4
+  items:
+    - session-13
+    - reading-13
+    - lecture-13
+
+module-14:
+  title: 'Module 14'
+  segment: ['module', 14]
+  begin: 2023-03-12
+  end: 2023-03-25
+  theme: c6
+  items:
+    - session-14
+    - reading-14
+    - lecture-14
+
+module-15:
+  title: 'Module 15'
+  segment: ['module', 15]
+  begin: 2023-03-26
+  end: 2023-03-31
+  theme: c6
+  items:
+    - session-15
+    - reading-15
+    - lecture-15

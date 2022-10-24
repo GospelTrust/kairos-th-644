@@ -1,0 +1,447 @@
+syllabus:
+  segment: 'module-01'
+  title: 'TH-644 Christian Apologetics'
+  icon: info
+  header: 'Syllabus'
+  type: 'Information'
+  url: 'syllabus'
+  videos:
+    - https://drive.google.com/file/d/1wmpXPjcIl3piGxSo_f4MyAxTT2YZ3F4g/preview
+
+session-01:
+  segment: 'module-01'
+  title: 'Thinking'
+  icon: lightbulb
+  header: 'Session 1'
+  type: 'Resources'
+  url: 'session-01'
+  videos:
+    - https://drive.google.com/file/d/1TrioQhYuVA94NYhAfkEu4D-PJxZZmRFA/preview
+
+reading-01:
+  segment: 'module-01'
+  title: 'Geiser & Brooks'
+  icon: book
+  type: 'Book'
+  header: 'Reading 1'
+  url: 'reading-01'
+
+lecture-01:
+  segment: 'module-01'
+  title: 'Principles of Sound Thinking'
+  icon: tv
+  type: 'Lecture'
+  header: 'Lecture 1'
+  url: 'lecture-01'
+  videos:
+    - https://drive.google.com/file/d/14Y3dNlqnsSR7Fgt8mzxC4xHjarBg0Cil/preview
+
+
+session-02:
+  segment: 'module-02'
+  title: 'The Bible Assumption'
+  icon: lightbulb
+  header: 'Session 2'
+  type: 'Resources'
+  url: 'session-02'
+  videos:
+    - https://drive.google.com/file/d/10pZ-aYGbmJpuTzQFSQ61cSGtDNCQScVh/preview
+    - https://drive.google.com/file/d/1wtmwnyheoXf2KLH5mp12ivtxFh2Wid-7/preview
+
+reading-02:
+  segment: 'module-02'
+  title: 'Michael S. Heiser'
+  icon: book
+  header: 'Reading 2'
+  type: 'Book'
+  url: 'reading-02'
+
+lecture-02:
+  segment: 'module-02'
+  title: 'How Should we Approach the Bible? &mdash; Assumption'
+  icon: tv
+  header: 'Lecture 2'
+  type: 'Lecture'
+  url: 'lecture-02'
+  part: 1
+  videos:
+    - https://drive.google.com/file/d/1j-qd31Jm97xZax-Drte6vsVDzIEFe3gj/preview
+
+
+session-03:
+  segment: 'module-03'
+  title: 'The Bible Problems'
+  icon: lightbulb
+  header: 'Session 3'
+  type: 'Resources'
+  url: 'session-03'
+  videos:
+    - https://drive.google.com/file/d/16XlrYuDEsCCKUnDS1nYXWYHdRUuDzXNF/preview
+
+reading-03:
+  segment: 'module-03'
+  title: 'Peter Enns, Gregory Beale, John Walton'
+  icon: book
+  header: 'Reading 3'
+  type: 'Book'
+  url: 'reading-03'
+
+lecture-03:
+  segment: 'module-03'
+  title: 'How Should we Approach the Bible? &mdash; Problems'
+  icon: tv
+  header: 'Lecture 3'
+  type: 'Lecture'
+  url: 'lecture-03'
+  part: 2
+  videos:
+    - https://drive.google.com/file/d/1IuM1b8epRdfCtrJxPq-ZWAlnmez-TC3-/preview
+
+
+session-04:
+  segment: 'module-04'
+  title: 'Pan-Babylonism'
+  icon: lightbulb
+  header: 'Session 4'
+  type: 'Resources'
+  url: 'session-04'
+  videos:
+    - https://drive.google.com/file/d/1lIQ6dTPFxBpNXz2yFusHjr-U3xrESggx/preview
+
+reading-04:
+  segment: 'module-04'
+  title: 'Arnold & Wisberg, W.G. Lambert, A.R. Millard, Hasel'
+  icon: book
+  header: 'Reading 4'
+  type: 'Book'
+  url: 'reading-04'
+
+lecture-04:
+  segment: 'module-04'
+  title: 'The Pan-Babylonism Myth &mdash; General'
+  icon: tv
+  header: 'Lecture 4'
+  type: 'Lecture'
+  url: 'lecture-04'
+  part: 1
+  videos:
+    - https://drive.google.com/file/d/1fORe6WpIRuWOl6tGio50fOUwljwuKX5D/preview
+
+
+session-05:
+  segment: 'module-05'
+  title: 'Pan-Babylonism Flood'
+  icon: lightbulb
+  header: 'Session 5'
+  type: 'Resources'
+  url: 'session-05'
+  videos:
+    - https://drive.google.com/file/d/1cpwx1vqC_nhsIF6jgnOAgmPnKEtTPOkd/preview
+
+reading-05:
+  segment: 'module-05'
+  title: 'John Walton, Gordon Wenham, Steven Holloway'
+  icon: book
+  header: 'Reading 5'
+  type: 'Book'
+
+lecture-05:
+  segment: 'module-05'
+  title: 'The Pan-Babylonism Myth &mdash; Flood'
+  icon: tv
+  header: 'Lecture 5'
+  type: 'Lecture'
+  url: 'lecture-05'
+  part: 2
+  videos:
+    - https://drive.google.com/file/d/1Woo9FsEXtefYCmWW6pC5ZkmPsNk4yoFd/preview
+
+
+session-06:
+  segment: 'module-06'
+  title: 'Genesis Creation'
+  icon: lightbulb
+  header: 'Session 6'
+  type: 'Resources'
+  url: 'session-06'
+  videos:
+    - https://drive.google.com/file/d/1XSHO9BzHg22_rOQJgSyLjg3eg4mSxYgi/preview
+
+reading-06:
+  segment: 'module-06'
+  title: 'Ken Griffith, Derek Kidner, Nahum Sarna'
+  icon: book
+  header: 'Reading 6'
+  type: 'Book'
+  url: 'reading-06'
+
+lecture-06:
+  segment: 'module-06'
+  title: 'Falsification of the Genesis Creation Account'
+  icon: tv
+  header: 'Lecture 6'
+  type: 'Lecture'
+  url: 'lecture-06'
+  videos:
+    - https://drive.google.com/file/d/1m1mDKmItUHdPiKYkPO0Uzmggs7aZ_cnQ/preview
+
+session-07:
+  segment: 'module-07'
+  title: 'Adam and Eve'
+  icon: lightbulb
+  header: 'Session 7'
+  type: 'Resources'
+  url: 'session-07'
+  videos:
+    - https://drive.google.com/file/d/1rQF_i9wT-s0C1bXYMDjkJz-04ohSyDlg/view
+
+reading-07:
+  segment: 'module-07'
+  title: 'Venema & Falk, Peter Enns, Michael Heiser, Swamidass, Todd Wood'
+  icon: book
+  header: 'Reading 7'
+  type: 'Book'
+  url: 'reading-07'
+
+lecture-07:
+  segment: 'module-07'
+  title: 'Historical Adam and Eve'
+  icon: tv
+  header: 'Lecture 7'
+  type: 'Lecture'
+  url: 'lecture-07'
+  videos:
+    - https://drive.google.com/file/d/1jMp9kgYzkfOdO6mQm0XkAomOc6zKdB22/view
+
+session-08:
+  segment: 'module-08'
+  title: 'Old Testament Historicity'
+  icon: lightbulb
+  header: 'Session 8'
+  type: 'Resources'
+  url: 'session-08'
+  videos:
+    - https://drive.google.com/file/d/1Ece7qomgWAUR530GacM4ztp6bvsjVvXh/preview
+
+reading-08:
+  segment: 'module-08'
+  title: 'V.P. Long, Sandra Richter, Richard Hess, S. McKenzie, K.A. Kitchen'
+  icon: book
+  header: 'Reading 8'
+  type: 'Book'
+  url: 'reading-08'
+
+lecture-08:
+  segment: 'module-08'
+  title: 'Old Testament Historicity &mdash; Introduction'
+  icon: tv
+  header: 'Lecture 8'
+  type: 'Lecture'
+  url: 'lecture-08'
+  part: 1
+  videos:
+    - https://drive.google.com/file/d/1IRZLW7jf09H3Qxz6DflYFy7UlN7dka4p/preview
+
+session-09:
+  segment: 'module-09'
+  title: 'Patriachs'
+  icon: lightbulb
+  header: 'Session 9'
+  type: 'Resources'
+  url: 'session-09'
+  videos:
+    - https://drive.google.com/file/d/1OOloc62AqbGfEaAaK-uirWxGyXwGhvU2/preview
+
+reading-09:
+  segment: 'module-09'
+  title: 'Robert Miller II, K.A. Kitchen, Ronald Sendel, Nahum Sarna'
+  icon: book
+  header: 'Reading 9'
+  type: 'Book'
+  url: 'reading-09'
+
+lecture-09:
+  segment: 'module-09'
+  title: 'Old Testament Historicity &mdash; Patriachs'
+  icon: tv
+  header: 'Lecture 9'
+  type: 'Lecture'
+  url: 'lecture-09'
+  part: 2
+  videos:
+    - https://drive.google.com/file/d/1l5_sK_VVxM5vBHxnkOiU_DdIGZR-f3-d/preview
+
+session-10:
+  segment: 'module-10'
+  title: 'Israel in Egypt, Moses, the Exodus'
+  icon: lightbulb
+  header: 'Session 10'
+  type: 'Resources'
+  url: 'session-10'
+  videos:
+    - https://drive.google.com/file/d/1yJjKlfBscQqJlmvGfVw4N4yoriCgrJIx/preview
+
+reading-10:
+  segment: 'module-10'
+  title: 'James K. Hoffmeier'
+  icon: book
+  header: 'Reading 10'
+  type: 'Book'
+  url: 'reading-10'
+
+lecture-10:
+  segment: 'module-10'
+  title: 'Old Testament Historicity &mdash; Israel in Egypt, Moses, the Exodus'
+  icon: tv
+  header: 'Lecture 10'
+  type: 'Lecture'
+  url: 'lecture-10'
+  part: 3
+  videos:
+    - https://drive.google.com/file/d/1R98iCa7Ga73uTeXSPpcGbkZPOeOTGn6p/preview
+
+session-11:
+  segment: 'module-11'
+  title: 'Conquest of Canaan'
+  icon: lightbulb
+  header: 'Session 11'
+  type: 'Resources'
+  url: 'session-11'
+  videos:
+    - https://drive.google.com/file/d/1VKqiw_EwyLk4HVucfWZ9fNeqv08HyG7h/preview
+
+reading-11:
+  segment: 'module-11'
+  title: 'David Howard Jr., Bryant Wood, Piotr Binkowski'
+  icon: book
+  header: 'Reading 11'
+  type: 'Book'
+  url: 'reading-11'
+
+lecture-11:
+  segment: 'module-11'
+  title: 'Old Testament Historicity &mdash; Conquest of Canaan'
+  icon: tv
+  header: 'Lecture 11'
+  type: 'Lecture'
+  url: 'lecture-11'
+  part: 4
+  videos:
+    - https://drive.google.com/file/d/125-Najd8vmVMpA0HSuAl3JGX1JqTn32l/preview
+
+session-12:
+  segment: 'module-12'
+  title: 'Law Codes'
+  icon: lightbulb
+  header: 'Session 12'
+  type: 'Resources'
+  url: 'session-12'
+  videos:
+    - https://drive.google.com/file/d/1v9WUqrUhUMtX0ho6GDd-mUOtOaJniYZP/preview
+
+reading-12:
+  segment: 'module-12'
+  title: 'Fee & Stuart, Nahum Sarna, B. Johnson, David Wright, William Moran, Dennis McCarthy, Jacqueline Lapsley'
+  icon: book
+  header: 'Reading 12'
+  type: 'Book'
+  url: 'reading-12'
+
+lecture-12:
+  segment: 'module-12'
+  title: 'The Old Testament is Unique&hellip;Right? &mdash; Law Codes'
+  icon: tv
+  header: 'Lecture 12'
+  type: 'Lecture'
+  url: 'lecture-12'
+  part: 1
+  videos:
+    - https://drive.google.com/file/d/1CAVQVsEytMmtd34cGgx5bjmsghUQFJRf/preview
+
+session-13:
+  segment: 'module-13'
+  title: 'The Sabbath'
+  icon: lightbulb
+  header: 'Session 13'
+  type: 'Resources'
+  url: 'session-13'
+  videos:
+    - https://drive.google.com/file/d/1faOOK_AafMckNcbAgQPazuWcYv6EZb9Q/preview
+
+reading-13:
+  segment: 'module-13'
+  title: 'Nahum Sarna, Gerhard Hasel, Roger Beckwith, Cyrus Gordon'
+  icon: book
+  header: 'Reading 13'
+  type: 'Book'
+  url: 'reading-13'
+
+lecture-13:
+  segment: 'module-13'
+  title: 'The Old Testament is Unique&hellip;Right? &mdash; Sabbath'
+  icon: tv
+  header: 'Lecture 13'
+  type: 'Lecture'
+  url: 'lecture-13'
+  part: 2
+  videos:
+    - https://drive.google.com/file/d/1LF-fTZA8WOx3Ej2DYpJUNwkhP1DrTF2A/preview
+
+session-14:
+  segment: 'module-14'
+  title: 'Women in Ancient Israel'
+  icon: lightbulb
+  header: 'Session 14'
+  type: 'Resources'
+  url: 'session-14'
+  videos:
+    - https://drive.google.com/file/d/1P399Wbph4I6DfmwZdGHD6Y59nPFSdjn4/preview
+
+reading-14:
+  segment: 'module-14'
+  title: 'Jacob Milgrom, Carol Meyers'
+  icon: book
+  header: 'Reading 14'
+  type: 'Book'
+  url: 'reading-14'
+
+lecture-14:
+  segment: 'module-14'
+  title: 'The Old Testament is Offensive &mdash; Women in Ancient Israel'
+  icon: tv
+  header: 'Lecture 14'
+  type: 'Lecture'
+  url: 'lecture-14'
+  part: 1
+  videos:
+    - https://drive.google.com/file/d/1cVqLmgpXYqOb7t9K17HCOxi4HkUpEvWJ/preview
+
+session-15:
+  segment: 'module-15'
+  title: 'Slavery in Ancient Israel'
+  icon: lightbulb
+  header: 'Session 15'
+  type: 'Resources'
+  url: 'session-15'
+  videos:
+    - https://drive.google.com/file/d/1pESACJccaO2qI9X9YcEh0tJKJfnvcbpi/preview
+
+reading-15:
+  segment: 'module-15'
+  title: 'Daisy Ulin Tsai, Jacob Milgrom'
+  icon: book
+  header: 'Reading 15'
+  type: 'Book'
+  url: 'reading-15'
+
+lecture-15:
+  segment: 'module-15'
+  title: 'The Old Testament is Offensive &mdash; Slavery in Ancient Israel'
+  icon: tv
+  header: 'Lecture 15'
+  type: 'Lecture'
+  url: 'lecture-15'
+  part: 2
+  videos:
+    - https://drive.google.com/file/d/1m84CnTHkDlElCOsG0oW8Uq20ZPBdBNgU/preview
+

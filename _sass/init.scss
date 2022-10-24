@@ -1,0 +1,29 @@
+$font-main:             'Open Sans', sans-serif;
+$font-secondary:        'Teko', sans-serif;
+$font-special:          'Josefin Sans', sans-serif;
+$font-mono:             'Share Tech Mono', monospace;
+
+$color-primary:         aliceblue;
+$color-secondary:       lightyellow;
+$color-tertiary:        #ff7f50;
+$color-bg:              #2a2a2a;
+$color-fg:              ivory;
+$color-dark:            gray;
+$color-link:            orangered;
+$color-theme:           #ff7f50;
+
+$color-row-odd:         #1a1a1a;
+$color-row-even:        #1f1f1f;
+
+$color-code-bg:         #222;
+$color-card-bg:         #ffeee8;
+$color-card-fg:         #444;
+
+$card-font-size:        16px;
+
+$content-width:         600px;
+
+$grid-width:            180px;
+$grid-image-height:     180px;
+
+@import "base";
