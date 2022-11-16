@@ -1,5 +1,5 @@
-remote_theme: beAuthentic/askclass-course-theme
-#theme: askclass-course-theme
+#remote_theme: beAuthentic/askclass-course-theme
+theme: askclass-course-theme
 
 title: "Kairos Introduction to Christian Apologetics"
 description: >
