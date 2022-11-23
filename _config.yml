@@ -22,7 +22,7 @@ acc:
     alt_image: "logo.svg"
     alt_size: 200
     sizes: [ 48, 96, 144, 192, 300, 512, 800, 1024 ]
-  shortcut:
+  shortcuts:
     - name: Syllabus
       url: https://th644.nissi.app/session/syllabus
       desc: Class syllabus and contact information
