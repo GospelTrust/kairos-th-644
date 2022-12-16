@@ -102,7 +102,7 @@ Uber-literalism
 
 - Church theology determines the meaning of pulpit
   - Catholic has an altar
-  - Luteran has 2
+  - Lutheran has 2
   - Baptist - in the middle
 
 - Zechariah in Luke 1:78-79
