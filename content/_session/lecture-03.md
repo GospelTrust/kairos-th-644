@@ -167,5 +167,8 @@ He then asks (paraphrasing), "Can the biblical writers use and 'do' myth?"
   - Want you to run or fight
   - Don't need to assault just probe (ask questions)
 
+----
+
+{% include includes/session/youtube.html  id="mEtY2IVK2eM" %}
 
 [Chiasm]: https://chiasmusresources.org/literary-art-gospel-matthew
