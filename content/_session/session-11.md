@@ -29,5 +29,15 @@
 - Websites:
   - [Associates for Biblical Research]
 
+----
+
+## Discussion
+
+The Time Magazine article “Why do People Build Walls? The Real Story of Jericho Offers a Surprising Answer” makes the claim there no evidence of fighting in Jericho during the biblical period.
+
+Considering the readings and the lectures, assess the claim. How might it be reworded to be improved? Are there any logical flaws in the claim?
+
+Response: I’m hoping students make use of Bryant Wood’s material here – and ask what is meant by “biblical period” (it’s as though the writer at time has no idea that there are two dates for the exodus into which scholars try to situate the exodus and the later Jericho event).
+
 [Science: Score One for the Bible]: http://content.time.com/time/subscriber/article/0,33009,969538,00.html
 [Associates for Biblical Research]: https://biblearchaeology.org/

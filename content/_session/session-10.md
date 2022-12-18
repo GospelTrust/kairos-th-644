@@ -30,5 +30,14 @@
 - Videos:
   - Alexandria School Foundation video, [Lecture 4: The Exodus and Crossing the Sea Myth or Reality] (36:25)
 
-[Lecture 4: The Exodus and Crossing the Sea Myth or Reality]: https://youtu.be/g9U9Pa7Owi8
+----
 
+## Discussion
+
+The Rational Wiki page “Evidence for the Exodus” cites Israeli archaeologist Ze’ev Herzog as saying:
+
+> The Israelites never were in Egypt. They never came from abroad. This whole chain is broken. It is not a historical one. It is a later legendary reconstruction — made in the seventh century BCE — of a history that never happened.
+
+Considering the readings and the lectures, assess the claim. How might it be reworded to be improved? Are there any logical flaws in the claim?
+
+[Lecture 4: The Exodus and Crossing the Sea Myth or Reality]: https://youtu.be/g9U9Pa7Owi8

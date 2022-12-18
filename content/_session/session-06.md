@@ -31,5 +31,14 @@
     - Chapter 4
     - Chapter 5
 
-[The Naked Bible]: https://www.youtube.com/watch?v=diEzuGvDjU0&ab_channel=NakedBible
+----
 
+## Discussion
+
+The Rational Wiki page “Book of Genesis” includes the following statement:
+
+> Apparently the lights in the sky were also created to act as signs. The idea that the movement, configuration, and appearance of celestial bodies conveyed personal messages was really common in primitive societies. This idea is now generally referred to as astrology, which is forbidden and ridiculed in many other scriptural references. Genesis 1 apparently endorses astrological thinking.
+
+Considering the readings and the lectures, assess the claim. How might it be reworded to be improved? Are there any logical flaws in the claim?
+
+[The Naked Bible]: https://www.youtube.com/watch?v=diEzuGvDjU0&ab_channel=NakedBible
