@@ -51,4 +51,4 @@ The emergence of the hill "in the middle of the waters" | The emergence of firma
 
 ----
 
-{% include includes/session/youtube.html  id="UoNTdrhZcmg" %}
+{% include session/youtube.html  id="UoNTdrhZcmg" %}

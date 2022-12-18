@@ -169,6 +169,6 @@ He then asks (paraphrasing), "Can the biblical writers use and 'do' myth?"
 
 ----
 
-{% include includes/session/youtube.html  id="mEtY2IVK2eM" %}
+{% include session/youtube.html  id="mEtY2IVK2eM" %}
 
 [Chiasm]: https://chiasmusresources.org/literary-art-gospel-matthew
