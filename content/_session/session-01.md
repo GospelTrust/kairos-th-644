@@ -31,3 +31,12 @@
 
 [What is Peer Review?]: https://library.sdsu.edu/reference/news/what-does-peer-review-mean
 
+
+## Inductive Reasoning
+
+### Unit 5.1: Causal Reasoning &mdash; Necessary and Sufficient Conditions
+
+- Necessary but not sufficient
+- Sufficient but not necessary
+- Both necessary and sufficient
+- Neither necessary nor sufficient
