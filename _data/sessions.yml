@@ -144,6 +144,7 @@ reading-05:
   icon: book
   header: 'Reading 5'
   type: 'Book'
+  url: 'reading-05'
 
 lecture-05:
   segment: 'module-05'
@@ -444,4 +445,3 @@ lecture-15:
   part: 2
   videos:
     - https://drive.google.com/file/d/1m84CnTHkDlElCOsG0oW8Uq20ZPBdBNgU/preview
-
