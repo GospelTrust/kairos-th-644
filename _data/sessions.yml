@@ -214,7 +214,7 @@ lecture-07:
   type: 'Lecture'
   url: 'lecture-07'
   videos:
-    - https://drive.google.com/file/d/1jMp9kgYzkfOdO6mQm0XkAomOc6zKdB22/view
+    - https://drive.google.com/file/d/1jMp9kgYzkfOdO6mQm0XkAomOc6zKdB22/preview
 
 session-08:
   segment: 'module-08'
