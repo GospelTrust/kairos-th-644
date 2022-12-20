@@ -74,7 +74,7 @@ When God began to create the heavens and the earth (_indefinite_)
 Heiser | Traditional
 :---:  | :---:
 When God began... | In the beginning...
-בְראשׁיח | בָישׁיח
+בָראשׁיח | בְראשׁיח
 indefinite | definite
 
 - (1. _dep_) When God began to create the heavens and the earth &mdash;
