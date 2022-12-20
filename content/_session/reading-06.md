@@ -1,7 +1,7 @@
 ---
 ---
 
-- Ken Griffith, [Starlight, Time, and the New Physics] - A Short Review, from [The Aquila Report](theaquilareport.com)
+- Ken Griffith, [Starlight, Time, and the New Physics] - A Short Review, from [The Aquila Report](https://theaquilareport.com)
 - Derek Kidner, _The Story of Creation (1:1-2:3)_, from _Genesis: An Introduction and Commentary_
 - Nahum M. Sarna, Creation (1:1-2:3), from Genesis
 
