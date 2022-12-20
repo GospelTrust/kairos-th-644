@@ -74,7 +74,8 @@ When God began to create the heavens and the earth (_indefinite_)
 Heiser | Traditional
 :---:  | :---:
 When God began... | In the beginning...
-בָראשׁיח | בְראשׁיח
+בְראשׁיח | בָראשׁיח
+bereishit | bareishit
 indefinite | definite
 
 - (1. _dep_) When God began to create the heavens and the earth &mdash;
@@ -186,3 +187,7 @@ The grammar and syntax of Genesis 1:1-3 allowing these assertions:
     - Heiser: It might be possible supporting the traditional view
 
   - Gen 1:1-3 if there's no time sequence before v.3 creation starts 6 24-hour. But before that? Possible eternity
+
+----
+
+- For alternative view of the translation of _Bereishit_ see Melissa Carpenter's Questioning Torah &mdash; [Bereishit: A First-Rate Beginning](https://mtorah.com/2012/10/11/bereishit-a-first-rate-beginning/)
