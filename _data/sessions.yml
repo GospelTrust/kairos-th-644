@@ -177,6 +177,8 @@ reading-06:
   header: 'Reading 6'
   type: 'Book'
   url: 'reading-06'
+  videos:
+    - diEzuGvDjU0
 
 lecture-06:
   segment: 'module-06'
