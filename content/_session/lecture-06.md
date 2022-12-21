@@ -66,3 +66,45 @@ God created, now He's reordering the stuff...
 - Don't necessarily requires a definite beginning
 - Don't necessarily requires a 24-hour
 - Inhabitable for human
+
+----
+
+## Mike Chu's Notes
+
+Gen 1 cannot be reconciled with modern cosmology
+
+### Griffith Article
+
+- YEC - 6000
+- Dismisses concepts dark matter / energy
+
+### Kinder Article
+
+- OEC - "Day" _yom_ does not restrict to 24-hr
+- _tohe_ - Formless
+- Against literalist interpretation
+
+### Sarna Article
+
+- _bara_ & _yom_ not central point
+- Clause structure 1:1-3 real issue
+- If "when" they are dependent clauses
+  - Existed prior
+
+- Modern science "blessed" and "cursed"
+- _bara_ cannot be limited to create out of nothing
+  - _asah_ (Ex 20:11) used as synonym
+- Traditional interpretation harder to depend. Would need Isaiah help
+- "When" is easier to defend (in Hebrews are  self explanatory)
+
+### Heiser
+
+- Both accounts need to be affirmed
+  - theological & scientific
+- Discernment is important
+- Mindful of providential view of inspiration (not dictation)
+- Distinguish _truth_ proposition from the _means_ of those propositions
+- Alternative interpretation Gen 1:1-3
+  - v.1 as a title (to follow the other works)
+  - Disconnects it from v2-3 as ambiguous time
+  - God created but it was not ordered
