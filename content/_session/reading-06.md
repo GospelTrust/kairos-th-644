@@ -2,10 +2,12 @@
 ---
 
 - Ken Griffith, [Starlight, Time, and the New Physics] - A Short Review, from [The Aquila Report](https://theaquilareport.com)
-- Derek Kidner, _The Story of Creation (1:1-2:3)_, from _Genesis: An Introduction and Commentary_
-- Nahum M. Sarna, Creation (1:1-2:3), from Genesis
+- [Derek Kidner], _The Story of Creation (1:1-2:3)_, from _Genesis: An Introduction and Commentary_
+- [Nahum M. Sarna], Creation (1:1-2:3), from Genesis
 
 [Starlight, Time, and the New Physics]: https://www.theaquilareport.com/starlight-time-and-the-new-physics-a-short-review/
+[Nahum M. Sarna]: https://en.wikipedia.org/wiki/Nahum_M._Sarna
+[Derek Kidner]: https://en.wikipedia.org/wiki/Derek_Kidner
 
 ----
 
@@ -75,7 +77,7 @@ Heiser | Traditional
 :---:  | :---:
 When God began... | In the beginning...
 בְראשׁיח | בָראשׁיח
-bereishit | bareishit
+beresit | baresit
 indefinite | definite
 
 - (1. _dep_) When God began to create the heavens and the earth &mdash;
