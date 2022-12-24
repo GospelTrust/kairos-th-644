@@ -198,7 +198,7 @@ session-07:
   type: 'Resources'
   url: 'session-07'
   videos:
-    - https://drive.google.com/file/d/1rQF_i9wT-s0C1bXYMDjkJz-04ohSyDlg/view
+    - https://drive.google.com/file/d/1rQF_i9wT-s0C1bXYMDjkJz-04ohSyDlg/preview
 
 reading-07:
   segment: 'module-07'

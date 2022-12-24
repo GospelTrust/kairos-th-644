@@ -15,3 +15,49 @@
 
 [Deleted: Does Genetics Point to a Single Couple?]: https://discourse.peacefulscience.org/t/deleted-does-genetics-point-to-a-single-primal-couple/9283
 [The Evolution of Adam: Additional Thoughts]: https://drmsh.com/evolution-adam-additional-thoughts/
+
+----
+
+## Romans 5:12
+
+Here is the series of posts on Romans 5:12. I do not take the traditional view — that the verse is about the transmission of Adamic guilt. I think it is inserted into the text. However, all humans are sinners (presuming they are allowed to live) and in need of Christ for salvation (i.e., salvation is only through Christ and is not merited in any way). For my reasons and what I think, see the list.
+
+1. Romans 5:12 – What it Says and What it Doesn’t Say, [Part 1]
+
+2. Romans 5:12 – What It Says and What It Doesn’t Say, [Part 2]
+
+3. More on Romans 5:12, [Part 3]
+
+4. Romans 5:12, [Part 4]
+
+5. Romans 5:12, [Part 5]: A Few More Replies to Replies
+
+6. Back to Romans 5:12 – [Replies to Reader Comments]
+
+7. Some Brief Thoughts on the “[Sin Nature]” and Reader Follow-Up
+
+8. Romans 5:12 and the Fate of the [Unborn, Infants, and Other Human Beings Who Cannot Believe From Birth]
+
+9. A Brief Note on [Contextualizing the Bible] (Especially OT)
+
+10. [Adam’s Sin and Old Testament Theology]
+
+11. Paul, [Original Sin], and Rabbinic Theology
+
+12. A Side Note on “[Corporate Solidarity]”
+
+13. Romans 5:12 and [Universalism]: Applying My Take on Romans 5:12 to the Problem
+
+[Part 1]: https://drmsh.com/2009/04/06/romans-512-what-it-says-and-what-it-doesnt-say-part-1/
+[Part 2]: https://drmsh.com/2009/06/romans-512-what-it-says-and-what-it-doesnt-say-part-2/
+[Part 3]: https://drmsh.com/2009/06/more-on-romans-5/
+[Part 4]: https://drmsh.com/2009/06/romans-512-part-4/
+[Part 5]: https://drmsh.com/2009/06/romans-512-part-5-a-few-more-replies-to-replies/
+[Replies to Reader Comments]: https://drmsh.com/2009/07/back-to-romans-512-replies-to-reader-comments/
+[Sin Nature]: https://drmsh.com/2009/07/some-brief-thoughts-on-the-sin-nature-and-reader-follow-up/
+[Unborn, Infants, and Other Human Beings Who Cannot Believe From Birth]: https://drmsh.com/2009/07/romans-512-and-the-fate-of-the-unborn-infants-and-other-human-beings-who-cannot-believe/
+[Contextualizing the Bible]: https://drmsh.com/2009/07/a-brief-note-on-contextualizing-the-bible-especially-ot/
+[Adam’s Sin and Old Testament Theology]: https://drmsh.com/2009/08/adams-sin-and-old-testament-theology/
+[Original Sin]: https://drmsh.com/2009/08/paul-original-sin-and-rabbinic-theology/
+[Corporate Solidarity]: https://drmsh.com/2009/08/a-side-note-on-corporate-solidarity/
+[Universalism]: https://drmsh.com/2009/08/romans-512-and-universalism-applying-my-take-on-romans-512-to-the-problem/
