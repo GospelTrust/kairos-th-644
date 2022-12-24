@@ -35,7 +35,9 @@
 
 ----
 
-{% include session/videos.html  videos=["ePW3AJwT6z0","HSnMqbJABqc"] %}
+{% include session/youtube.html id="ePW3AJwT6z0" %}
+----
+{% include session/youtube.html id="HSnMqbJABqc" %}
 
 Refutes:
 
