@@ -10,7 +10,8 @@
 
 - Watch:
   - The Qualcomm Institute video, Brad C. Sparks - [Egyptian Text Parallels to the Exodus: The Egyptology Literature] (47:07)
-  - {% include session/youtube.html id="F-Aomm4O794" %}
+
+{% include session/youtube.html id="F-Aomm4O794" %}
 
 [Egyptian Text Parallels to the Exodus: The Egyptology Literature]: https://youtu.be/F-Aomm4O794
 
@@ -30,7 +31,8 @@
 
 - Videos:
   - Alexandria School Foundation video, [Lecture 4: The Exodus and Crossing the Sea Myth or Reality] (36:25)
-  - {% include session/youtube.html id="g9U9Pa7Owi8" %}
+
+{% include session/youtube.html id="g9U9Pa7Owi8" %}
 
 ----
 

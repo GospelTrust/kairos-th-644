@@ -11,7 +11,10 @@
 - Watch:
   - Aaron Shafovaloff video, [Jericho and Archaeology], by Dr. Bryant Wood (52:37)
 
+{% include session/youtube.html id="nJNjhnTe4B0" %}
+
 [Jericho and Archaeology]: https://www.youtube.com/watch?v=nJNjhnTe4B0&ab_channel=AaronShafovaloff
+
 
 ## Additional Resources
 
