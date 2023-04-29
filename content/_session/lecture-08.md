@@ -61,6 +61,7 @@ Do we really believe...
 - <samp>How ever I would write it</samp>
 - They become their own standard
 
+Questions to ask:
 - Number of Sources?
 - Conversations?
 - No place for memory?
@@ -118,3 +119,42 @@ That crediting the causation (direct or providential) of events to God __cannot_
 - How much history would we have?
 - Why are we insisting on perfection?
 - Is it misguided to judge an ancient document by modern expectation? <samp>Assume accurate</samp>
+
+<hr class="section" />
+
+```
+Mike Chu 4/28/2023
+Taishanese (Toishanese)
+```
+
+### Historicity a Western Concept?
+
+- Taken little information and ran with it
+- Rational Beliefs - Does reliefs rational?
+  - Alvin Plantinga - religious beliefs are "properly basic"
+
+### Ethnic Churches Growing in Boston
+
+- Ethnic identity longing for traditional cultural ties
+- Cultural distinctiveness
+- How do we maintain the cohesiveness in a multi-cultural environment?
+- Creating a space
+  - Welcoming
+  - Offer kindness
+
+### Progression
+
+- Demanding uniformity?
+- What do we do with power?
+
+### Tsalmaveth (Strong 6757)
+
+Job 3:5 - Not translated as "shadow of death"
+
+- וְ֭צַלְמָוֶת
+- _vetzalmavet_
+- Death-like shadow, deep shadow
+
+- חֹ֣שֶׁךְ
+- _choshech_
+- Darkness, obscurity
