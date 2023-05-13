@@ -1,0 +1,24 @@
+{
+    "cSpell.words": [
+        "choshech",
+        "Elohimist",
+        "Finkelstein",
+        "Garstang",
+        "gematria",
+        "Heiser",
+        "JEDP",
+        "Merneptah",
+        "Qadesh",
+        "Silberman",
+        "Sinaitic",
+        "vetzalmavet",
+        "Wheaton",
+        "YHWH"
+    ],
+    "markdownlint.config": {
+        "no-hard-tabs": true,
+        "no-inline-html": false,
+        "first-line-h1": false,
+        "no-blanks-blockquote": false
+    }
+}

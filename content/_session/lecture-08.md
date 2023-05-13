@@ -18,6 +18,7 @@ Has included every perspective | Soul or limited perspective of writer
 _Excludes_ God and any other supernatural intel from being any factor in historical reality |_Includes_ God and other supernatural being as historical factors.
 
 Which is history? <samp>Depends if you believe or not</samp>
+
 - False dichotomy
 
 ### What's Affirmed or Denied?
@@ -53,15 +54,18 @@ Do you see potential problems with the modern sense of history?
 <samp>No human can achieve this</samp>
 
 Do we really believe...
+
 - **Something cannot be true** if it isn't exhaustive in detail and perspective?
 - The **one dominant perspective** _must_ be false?
 - That **incomplete** = untrue?
 
 **How precise** must you be in order to be considered accurate (i.e., reliable, valid)?
+
 - <samp>How ever I would write it</samp>
 - They become their own standard
 
 Questions to ask:
+
 - Number of Sources?
 - Conversations?
 - No place for memory?
@@ -75,14 +79,14 @@ Questions to ask:
 
 The reality is that historians critical of the Bible and other ancient texts want to question an account's reliability when it fails to meet exhaustive completeness and precision, but they refuse to falsify the reliability of other accounts of events, even in their own lives according to the same standard.
 
-- ___Invisible___ The forgotten Story of the Black Woman Lawyer Who Took Down America's Most Powerful Monster by Stephen L. Carter
+- **Invisible** The forgotten Story of the Black Woman Lawyer Who Took Down America's Most Powerful Monster by Stephen L. Carter
 
   > The bestselling author delves into his past and discovers the inspiring story of his grandmother's extraordinary life.
 
   > She was black and a woman and a prosecutor, a graduate of Smith College and the granddaughter of slaves, as dazzlingly unlikely a combination as one could imagine in New York of the 1930s &mdash; and without the strategy she devised, Lucky Luciano, the most powerful Mafia boss in history, would never have been convicted. When special prosecutor Thomas E. Dewey selected twenty lawyers to help him clean up the city's underworld, she was the only member of his team who was not a white male.
 
-  - Is this story __less__ objective than other histories of the Luciano trial?
-  - Where the lives of __all__ others involved researched at the same __level of detail__ as Eunice Carter's?
+  - Is this story **less** objective than other histories of the Luciano trial?
+  - Where the lives of **all** others involved researched at the same **level of detail** as Eunice Carter's?
   - Were conversations from which data were drawn **unfailingly recorded**?
 
 ### Your Own Autobiography?
@@ -98,10 +102,10 @@ The reality is that historians critical of the Bible and other ancient texts wan
 
 Another presumption...
 
-That crediting the causation (direct or providential) of events to God __cannot__ be considered history.
+That crediting the causation (direct or providential) of events to God **cannot** be considered history.
 
-- God's __reality__ cannot be known objectively
-- Therefore, neither can his __activity__.
+- God's **reality** cannot be known objectively
+- Therefore, neither can his **activity**.
 
 - What about God?
   - "divine activity"?
@@ -110,7 +114,7 @@ That crediting the causation (direct or providential) of events to God __cannot_
     - He credited his gods
     - Why the Qadesh be considered historical
 
-- ___History and the Gods___ by Bertil Albrektson
+- _**History and the Gods**_ by Bertil Albrektson
   - Inconsistent judging ANE's vs Biblical
 
 ### Framing Historicity
@@ -122,7 +126,7 @@ That crediting the causation (direct or providential) of events to God __cannot_
 
 <hr class="section" />
 
-```
+```text
 Mike Chu 4/28/2023
 Taishanese (Toishanese)
 ```
