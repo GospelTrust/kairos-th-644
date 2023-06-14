@@ -45,3 +45,7 @@ The Rational Wiki page “Evidence for the Exodus” cites Israeli archaeologist
 Considering the readings and the lectures, assess the claim. How might it be reworded to be improved? Are there any logical flaws in the claim?
 
 [Lecture 4: The Exodus and Crossing the Sea Myth or Reality]: https://youtu.be/g9U9Pa7Owi8
+
+----
+
+{% include session/youtube.html id="ErOBCR0mvZ4" %}

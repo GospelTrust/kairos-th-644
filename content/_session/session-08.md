@@ -2,6 +2,7 @@
 ---
 
 ## Objectives
+
 - Explains how modern historians think about history and historiography.
 - Introduces you to the points of contention between scholars over Old Testament historiography.
 - Exposes weaknesses and inconsistencies with criticisms of Old Testament historiography and modern historical methods.
@@ -23,3 +24,7 @@ The following statement was including in an email to Dr. Heiser:
 > We don’t know who wrote some of the biblical books. If we can’t be sure the Bible was written by a reliable author, how can we trust it?
 
 What is / are the logical fallacy / fallacies in the following statement?
+
+----
+
+{% include session/youtube.html id="CUxIW9Lxpmo" %}

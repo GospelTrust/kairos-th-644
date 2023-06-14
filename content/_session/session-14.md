@@ -16,3 +16,6 @@
   - Hilary Lipka, Women, Children, Slaves, and Foreigners, from The Oxford Handbook of Biblical Law
   - Susan Niditch, Chapter 3, from War in the Hebrew Bible: A Study in the Ethics of Violence
 
+----
+
+{% include session/youtube.html id="DAZiEZiotaY" %}

@@ -15,3 +15,6 @@
 - Books:
   - Samuel Greengus, Biblical and Ancient Near Eastern Law, from The Anchor Yale Bible Dictionary
 
+----
+
+{% include session/youtube.html id="aQ_WSNUy45w" %}

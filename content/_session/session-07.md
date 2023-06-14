@@ -36,7 +36,9 @@
 ----
 
 {% include session/youtube.html id="ePW3AJwT6z0" %}
+
 ----
+
 {% include session/youtube.html id="HSnMqbJABqc" %}
 
 Refutes:
