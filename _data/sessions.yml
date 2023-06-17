@@ -449,3 +449,23 @@ lecture-15:
   part: 2
   videos:
     - https://drive.google.com/file/d/1m84CnTHkDlElCOsG0oW8Uq20ZPBdBNgU/preview
+
+essay-01:
+  segment: 'module-15'
+  title: 'Critique an Assigned Reading'
+  icon: edit_square
+  header: 'Essay 1'
+  type: 'Essay'
+  url: 'essay-01'
+  due: 2023-06-24
+  points: 50
+
+essay-02:
+  segment: 'module-15'
+  title: 'Does the Bible teach that OT Israelites were saved by obeying the Law?'
+  icon: edit_square
+  header: 'Essay 2'
+  type: 'Essay'
+  url: 'essay-02'
+  due: 2023-06-24
+  points: 50
